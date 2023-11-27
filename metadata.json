@@ -1,5 +1,5 @@
 {
-  "name": "all assignment plugin",
+  "name": "all users assignment component plugin",
   "type": "helper",
   "properties": {
     "user_type": "all",
